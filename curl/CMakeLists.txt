@@ -1,5 +1,5 @@
 # curl/CMakeLists.txt
-cmake_minimum_required(VERSION 3.10)
+cmake_minimum_required(VERSION 3.22)
 project(curl_project)
 
 include(ExternalProject)
