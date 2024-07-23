@@ -9,5 +9,6 @@ set(CMAKE_RUNTIME_OUTPUT_DIRECTORY_RELEASE ${CMAKE_BINARY_DIR}/release)
 
 #add_subdirectory(unitTests)
 #add_subdirectory(src)
+add_subdirectory(curl)
 add_subdirectory(mainCPP)
 
